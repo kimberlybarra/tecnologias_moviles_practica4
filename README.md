@@ -48,8 +48,7 @@ Se implementó un **BottomNavigationView** para permitir la navegación entre la
 # 3. MAPA DE NAVEGABILIDAD
 
 ```
-![Mapadenavegacion](images/mapadenavegacion.png)
-
+![mapadenavegacion](images/mapadenavegacion.png)
 ```
 
 La navegación se realiza mediante un menú inferior accesible desde todas las pantallas.
@@ -104,7 +103,7 @@ Todos los casos funcionaron correctamente.
 
 ![TimePicker](images/timepicker.png)
 
-## 🟢 DatePicker
+## DatePicker
 
 ![DatePicker](images/datepicker.png)
 
