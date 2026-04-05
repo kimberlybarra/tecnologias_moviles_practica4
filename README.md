@@ -47,13 +47,8 @@ Se implementó un **BottomNavigationView** para permitir la navegación entre la
 
 # 3. MAPA DE NAVEGABILIDAD
 
-```
-![mapadenavegacion](images/mapadenavegacion.png)
-```
 
-La navegación se realiza mediante un menú inferior accesible desde todas las pantallas.
-
----
+![Mapadenavegacion](images/mapadenavegacion.png)
 
 # 4. CONSTRUCCIÓN
 
@@ -93,19 +88,9 @@ Todos los casos funcionaron correctamente.
 
 ---
 
-# 6. CAPTURAS DE PANTALLA
-
-## AutoCompleteTextView
-
-![AutoComplete](images/autocomplete.png)
-
-## TimePicker
-
-![TimePicker](images/timepicker.png)
-
-## DatePicker
-
-![DatePicker](images/datepicker.png)
+| AutoComplete | TimePicker | DatePicker |
+|--------------|------------|------------|
+| ![](images/autocomplete.png) | ![](images/timepicker.png) | ![](images/datepicker.png) |
 
 ---
 
